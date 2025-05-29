@@ -33,18 +33,18 @@ git clone https://github.com/tu-usuario/yoalif-productos.git
 cd yoalif-productos
 ```
 
-## Creacion del Entorno Virtual (venv)
+### 2. Creacion del Entorno Virtual (venv)
 ```
 python -m venv venv
 source venv/bin/activate  # En Windows: venv\Scripts\activate
 ```
 
-## Instalar dependencias
+### 3. Instalar dependencias
 ```
 pip install flask
 ```
 
-## Ejecutar la aplicación
+### 4. Ejecutar la aplicación
 ```
 python backend.py
 ```
